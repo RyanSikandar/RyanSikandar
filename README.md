@@ -1,13 +1,11 @@
 ![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="![](https://komarev.com/ghpvc/?username=RyanSikandar&color=green)">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RyanSikandar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
 - 🔭 I’m currently working on: **NextJS and Flutter**
 
@@ -15,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on: **Interesting open source projects**
 
-- 💬 Ask me about: **C++,C,Python,JavaScript**
+- 💬 Ask me about: **C++, C, Python, JavaScript**
 
 - 📫 How to reach me: **Drop me an email at ryansikandar@gmail.com**
 
