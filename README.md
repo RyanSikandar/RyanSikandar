@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RyanSikandar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-- 🔭 I’m currently working on: **NextJS and Flutter**
+- 🔭 I’m currently working on: **NextJS and MERN**
 
 - 🌱 I’m currently learning: **MERN stack, DataScience and more details about Web Dev**
 
