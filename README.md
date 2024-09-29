@@ -33,5 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanSikandar&show_icons=true&locale=en&layout=compact" alt="RyanSikandar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanSikandar&show_icons=true&locale=en" alt="ujjwalb09" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RyanSikandar)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanSikandar&" alt="ujjwalb09" /></p>
