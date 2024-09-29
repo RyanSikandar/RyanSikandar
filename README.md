@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RyanSikandar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-- 🔭 I’m currently working on: **React Native**
+- 🔭 I’m currently working on: **React Native and Flutter**
 
 - 🌱 I’m currently learning: **Devops, Business and React Native**
 
