@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RyanSikandar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-- 🔭 I’m currently working on: **Flutter**
+- 🔭 I’m currently working on: **Postgres**
 
 - 👯 I’m looking to collaborate on: **Interesting open source projects**
 
-- 💬 Ask me about: **C++, C, Python, JavaScript**
+- 💬 Ask me about: **TypeScript, JavaScript**
 
 - 📫 How to reach me: **Drop me an email at ryansikandar@gmail.com**
 
